@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='SharedSession(URLSession)'/>
+        <page name='Reachibility'/>
+        <page name='DefaultSession(URLSession)'/>
+        <page name='WebSocketTask'/>
+        <page name='GetAPI'/>
+        <page name='PostAPI'/>
+    </pages>
+</playground>
